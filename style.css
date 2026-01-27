@@ -331,11 +331,6 @@ ul {
     font-size: 0.8rem;
 }
 
-/* Jika kamu nanti punya gambar asli:
-   Ganti <div class="img-placeholder"> dengan <img src="path/to/img.jpg" class="project-img">
-   dan tambahkan CSS: .project-img { width: 100%; border-radius: 8px; }
-*/
-
 /* ABOUT SECTION */
 .about {
     padding: 100px 0;
@@ -511,4 +506,5 @@ footer {
         flex-direction: column;
         gap: 15px;
     }
+
 }
